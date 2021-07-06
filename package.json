@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@stdlib/assert-is-buffer": "^0.0.x",
-    "@stdlib/cli": "^0.0.x",
+    "@stdlib/cli-ctor": "^0.0.x",
     "@stdlib/fs-read-file": "^0.0.x"
   },
   "devDependencies": {
