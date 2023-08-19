@@ -42,7 +42,8 @@
   "dependencies": {
     "@stdlib/assert-is-buffer": "^0.0.8",
     "@stdlib/cli-ctor": "^0.0.3",
-    "@stdlib/fs-read-file": "^0.0.8"
+    "@stdlib/fs-read-file": "^0.0.8",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.2"
   },
   "devDependencies": {
     "@stdlib/assert-is-boolean": "^0.0.8",
