@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-node-buffer-support",
-  "version": "0.0.8",
+  "version": "0.1.0",
   "description": "Detect native Buffer support.",
   "license": "Apache-2.0",
   "author": {
@@ -40,17 +40,17 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-buffer": "^0.0.8",
-    "@stdlib/cli-ctor": "^0.0.3",
-    "@stdlib/fs-read-file": "^0.0.8"
+    "@stdlib/assert-is-buffer": "^0.1.0",
+    "@stdlib/cli-ctor": "^0.1.0",
+    "@stdlib/fs-read-file": "^0.1.0"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.0.8",
-    "@stdlib/assert-is-browser": "^0.0.8",
-    "@stdlib/assert-is-windows": "^0.0.7",
-    "@stdlib/bench": "^0.0.12",
+    "@stdlib/assert-is-boolean": "^0.1.0",
+    "@stdlib/assert-is-browser": "^0.1.0",
+    "@stdlib/assert-is-windows": "^0.1.0",
+    "@stdlib/bench": "^0.1.0",
     "@stdlib/buffer-ctor": "^0.0.7",
-    "@stdlib/process-exec-path": "^0.0.7",
+    "@stdlib/process-exec-path": "^0.1.0",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
