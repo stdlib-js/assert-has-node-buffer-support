@@ -49,7 +49,7 @@
     "@stdlib/assert-is-browser": "^0.1.0",
     "@stdlib/assert-is-windows": "^0.1.0",
     "@stdlib/bench": "^0.1.0",
-    "@stdlib/buffer-ctor": "^0.0.7",
+    "@stdlib/buffer-ctor": "^0.1.0",
     "@stdlib/process-exec-path": "^0.1.0",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
