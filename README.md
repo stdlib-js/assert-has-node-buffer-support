@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasNodeBufferSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-node-buffer-support@esm/index.mjs';
+import hasNodeBufferSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-node-buffer-support@v0.2.2-esm/index.mjs';
 ```
 
 #### hasNodeBufferSupport()
@@ -70,7 +70,7 @@ var bool = hasNodeBufferSupport();
 <body>
 <script type="module">
 
-import hasNodeBufferSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-node-buffer-support@esm/index.mjs';
+import hasNodeBufferSupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-node-buffer-support@v0.2.2-esm/index.mjs';
 
 var bool = hasNodeBufferSupport();
 if ( bool ) {
