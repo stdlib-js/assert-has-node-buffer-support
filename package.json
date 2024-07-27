@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-has-node-buffer-support",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Detect native Buffer support.",
   "license": "Apache-2.0",
   "author": {
@@ -40,14 +40,14 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/assert-is-buffer": "^0.2.1",
-    "@stdlib/cli-ctor": "^0.2.1",
-    "@stdlib/fs-read-file": "^0.2.1"
+    "@stdlib/assert-is-buffer": "^0.2.2",
+    "@stdlib/cli-ctor": "^0.2.2",
+    "@stdlib/fs-read-file": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/assert-is-boolean": "^0.2.1",
+    "@stdlib/assert-is-boolean": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.1",
-    "@stdlib/assert-is-windows": "^0.2.1",
+    "@stdlib/assert-is-windows": "^0.2.2",
     "@stdlib/buffer-ctor": "^0.2.1",
     "@stdlib/process-exec-path": "^0.2.1",
     "proxyquire": "^2.0.0",
